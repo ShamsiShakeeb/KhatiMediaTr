@@ -1,0 +1,12 @@
+C:\Users\BS483\source\repos\KhatiMediaTr\KhatiMediaTr\bin\Debug\net6.0\KhatiMediaTr.deps.json
+C:\Users\BS483\source\repos\KhatiMediaTr\KhatiMediaTr\bin\Debug\net6.0\KhatiMediaTr.dll
+C:\Users\BS483\source\repos\KhatiMediaTr\KhatiMediaTr\bin\Debug\net6.0\KhatiMediaTr.pdb
+C:\Users\BS483\source\repos\KhatiMediaTr\KhatiMediaTr\obj\Debug\net6.0\KhatiMediaTr.csproj.AssemblyReference.cache
+C:\Users\BS483\source\repos\KhatiMediaTr\KhatiMediaTr\obj\Debug\net6.0\KhatiMediaTr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS483\source\repos\KhatiMediaTr\KhatiMediaTr\obj\Debug\net6.0\KhatiMediaTr.AssemblyInfoInputs.cache
+C:\Users\BS483\source\repos\KhatiMediaTr\KhatiMediaTr\obj\Debug\net6.0\KhatiMediaTr.AssemblyInfo.cs
+C:\Users\BS483\source\repos\KhatiMediaTr\KhatiMediaTr\obj\Debug\net6.0\KhatiMediaTr.csproj.CoreCompileInputs.cache
+C:\Users\BS483\source\repos\KhatiMediaTr\KhatiMediaTr\obj\Debug\net6.0\KhatiMediaTr.dll
+C:\Users\BS483\source\repos\KhatiMediaTr\KhatiMediaTr\obj\Debug\net6.0\refint\KhatiMediaTr.dll
+C:\Users\BS483\source\repos\KhatiMediaTr\KhatiMediaTr\obj\Debug\net6.0\KhatiMediaTr.pdb
+C:\Users\BS483\source\repos\KhatiMediaTr\KhatiMediaTr\obj\Debug\net6.0\ref\KhatiMediaTr.dll
